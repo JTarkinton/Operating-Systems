@@ -2,3 +2,6 @@ One of the most important basic functions of an operating system is the manageme
 The operating system controls all connected devices, telling them how to operate and interact. 
 The results of said operations and interactions are the basic performance of the computer.
 Some examples of the hardware that the operating system controls include the hard disk, optical drives, video cards and external port controllers, such as USB ports.
+One of the main functions of OS is to manage the primary and secondary memory. All the memory devices such as hard disk, pen drive etc. are managed by OS.
+Memory management keeps an eye on each and every memory location, in any case either it is allocated or it is not allocated (free). 
+Memory allocation to the processes is also decided and checked by Operating System. It decides and checks which process will obtain memory and at what time.
