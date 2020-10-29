@@ -5,3 +5,7 @@ Some examples of the hardware that the operating system controls include the har
 One of the main functions of OS is to manage the primary and secondary memory. All the memory devices such as hard disk, pen drive etc. are managed by OS.
 Memory management keeps an eye on each and every memory location, in any case either it is allocated or it is not allocated (free). 
 Memory allocation to the processes is also decided and checked by Operating System. It decides and checks which process will obtain memory and at what time.
+File Management in a file system, generally directories are organized for usage and easy navigation. Following activities are performed by an OS under file management:
+It keeps a track of location, information, status etc. This collective is known as File System.
+It decides who will get the resources.
+It allocates and de-allocates the resources.
