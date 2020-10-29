@@ -1,0 +1,4 @@
+One of the most important basic functions of an operating system is the management of all the computer's internal and external hardware. 
+The operating system controls all connected devices, telling them how to operate and interact. 
+The results of said operations and interactions are the basic performance of the computer.
+Some examples of the hardware that the operating system controls include the hard disk, optical drives, video cards and external port controllers, such as USB ports.
